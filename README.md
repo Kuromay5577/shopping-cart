@@ -1,7 +1,7 @@
 # shopping-cart
 Description of the project: Week 19 assignment is add and move products from shopping cart, and restock products.
 
-https://kuromay5577.github.io/shopping-cart/
+https://github.com/Kuromay5577/shopping-cart
 
 Copyright 2022 COPYRIGHT May Rogers
 
